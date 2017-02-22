@@ -34,6 +34,3 @@ bower.json
 # Ignore pow environment settings
 .powenv
 
-_site/
-.sass-cache/
-.jekyll-metadata
