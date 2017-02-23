@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# About me
+# About Me
 I’m a recovering tech journalist and a “Bernie Bro,” so I'm not your typical gun guy. But I’ve been a passionate supporter of the Second Amendment since I was a child—I grew up hunting and was a Life Scout, and more recently I’ve been immersed in the outdoors/shooting/survival space since early 2013.
 
 I have written about guns and 2A issues for mainstream publications like [Wired](http://www.wired.com/), [TechCrunch](http://www.techcrunch.com/), and [Vox](http://www.vox.com/), as well as for outdoors-oriented sites like [AllOutdoor.com](http://www.alloutdoor.com/). (I’m also one of the founders of [Ars Technica](http://www.arstechnica.com/), though I never wrote about guns for that site.)

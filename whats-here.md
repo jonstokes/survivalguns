@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-
-## What’s here
+## What’s Here
 This site isn’t a list of my personal gun recommendations. Rather, it aims to distill the general consensus that I’ve uncovered through the extensive research I've done into the prepper/survivalist scene, and in the many face-to-face conversations I’ve had with people who have devoted some or all of their lives to thinking about and training for survival and use-of-force scenarios.
 
 I’ll give my personal opinion from time to time, but ultimately this site aims to capture a broader consensus. It’s also a work in progress, so I’ll be updating it regularly with tweaks, fixes, and new resources. (Give me your email and I’ll alert you periodically when it updates, or you can subscribe via RSS.)

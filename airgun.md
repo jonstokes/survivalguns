@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Air rifle
+# Air Rifle
 Not everyone who’s thinking about tooling up for the apocalypse is ready to make the leap into firearms. Some families just aren’t ever going to be cool with having a gun in the house, while others live in areas where guns are so restricted that they’re worried about getting grief from neighbors or authorities if it gets out that they’re armed. And then there are folks who’ve served their time and payed their debt to society in a federal prison, but are legally barred from exercising their Second Amendment rights.
 
 Some of people described above have watched a certain post-apocalyptic zombie TV show, and they run out and buy a crossbow, or a bow of some type. This is a [terrible idea](http://www.alloutdoor.com/2013/12/03/crossbows-viable-shtf-option/). Despite what you see on TV and what some preppers like to fantasize about, crossbows and bows have way too many, er, drawbacks, to make them anything but a last-resort choice for survival.

@@ -1,15 +1,15 @@
 ---
 layout: default
 ---
-## Who this site is for
+## Who This Site Is For
 More and more of my non-gun-owning friends have begun freaking out about the state of the world for a variety of reasons — e.g. global warming, the Russians, and Donald Trump, to name a few big ones. These folks are discretely asking me (and people like me) for gun recommendations, so this site is my gift to them. Now, I can just send them a link, instead of a long email that still doesn’t quite cover it all.
 
 So if you’re new to guns and you’re freaked out enough that you’re seriously considering [firearms as an insurance policy](https://medium.com/@jonst0kes/confessions-of-a-progressive-gun-nut-ae0e6a8f6146#.c0m0mrf7g), but you have no idea where to begin, then this site will give you what you need.
 
-## What’s here
+## What’s Here
 This site isn’t a list of my personal gun recommendations. Rather, it aims to distill the general consensus that I’ve uncovered through the extensive research I've done into the prepper/survivalist scene, and in the many face-to-face conversations I’ve had with people who have devoted some or all of their lives to thinking about and training for survival and use-of-force scenarios. [More \>\>]({{ site.baseurl }}/whats-here.html)
 
-## About me
+## About Me
 I’m a recovering tech journalist and a “Bernie Bro,” so I'm not your typical gun guy. But I’ve been a passionate supporter of the Second Amendment since I was a child—I grew up hunting and was a Life Scout, and more recently I’ve been immersed in the outdoors/shooting/survival space since early 2013. I have written about guns and 2A issues for mainstream publications like Wired, TechCrunch, and Vox, as well as for outdoors-oriented sites like AllOutdoor.com. (I’m also one of the founders of Ars Technica, though I never wrote about guns for that site.)   [More \>\>]({{ site.baseurl }}/about.html)
 
 ## The Guns
