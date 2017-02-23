@@ -6,7 +6,7 @@ I’m a recovering tech journalist and a “Bernie Bro,” so I'm not your typic
 
 I have written about guns and 2A issues for mainstream publications like [Wired](http://www.wired.com/), [TechCrunch](http://www.techcrunch.com/), and [Vox](http://www.vox.com/), as well as for outdoors-oriented sites like [AllOutdoor.com](http://www.alloutdoor.com/). (I’m also one of the founders of [Ars Technica](http://www.arstechnica.com/), though I never wrote about guns for that site.)
 
-![The author shooting at SHOT in Vegas]({{ site.baseurl }}/assets/images/me-shooting.jpg)
+![The author shooting at SHOT in Vegas]({{ site.url }}/assets/images/me-shooting.jpg)
 
 I don’t claim to know everything about guns or survival, but I know as much about gun people and preppers as anyone you’re likely to meet. As a lifelong student of geek cultures, my specialty is diving into niche communities and figuring out what sorts of arguments they’re having, what the stakes are, and what kinds of conclusions they’re drawing. So this site is my constantly evolving distillation of the survivalist/prepper nerd zeitgeist around doomsday firearms.
 

@@ -5,7 +5,7 @@ layout: default
 Most preppers and survivalists consider a rimfire gun to be the foundation of any preparedness arsenal. Rimfire ammo doesn’t pack much of a punch, but it’s still deadly, even against man-sized targets given the right shot placement. What makes rimfire, specifically .22LR, the definitive prepper round is that it’s cheap, lightweight, and compact. A prepper can buy, store, and discretely transport many thousands of rounds of rimfire ammo for a fraction of the cost and effort of larger centerfire cartridges.
 
 ## Top Pick: Ruger 10/22
-![Ruger 10/22]({{ site.baseurl }}/assets/images/ruger-10-22.jpg)
+![Ruger 10/22]({{ site.url }}/assets/images/ruger-10-22.jpg)
 
 The Ruger 10/22 is popular with preppers because it’s a .22LR gun that’s relatively inexpensive and widely available. This means that it’s cheap to stock up on replacement parts and magazines for it. It’s also easy to use, accurate, and reliable.
 
@@ -18,7 +18,7 @@ I’d pick the stainless model for ease of cleaning and long-term maintenance. I
 - [Wikipedia entry](https://en.wikipedia.org/wiki/Ruger_10/22)
 
 ## Alternate Pick: Ruger Mark IV
-![Ruger 10/22]({{ site.baseurl }}/assets/images/ruger-mk-iv.jpg)
+![Ruger 10/22]({{ site.url }}/assets/images/ruger-mk-iv.jpg)
 
 Many folks who are considering a long-term bug-out scenario will want opt for a rimfire pistol instead of a rifle. A pistol is more compact and concealable than a rifle, which increases your options. The tradeoff is that it’s much harder to get shots on target with a pistol, especially at any range out beyond about twenty feet.
 
