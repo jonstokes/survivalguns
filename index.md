@@ -27,21 +27,21 @@ This list is also fairly standard; you’ll find lists very much like this—in 
 #### Rimfire Rifle
 Most preppers and survivalists consider a rimfire gun to be the foundation of any preparedness arsenal. Rimfire ammo doesn’t pack much of a punch, but it’s still deadly, even against man-sized targets given the right shot placement. What makes rimfire, specifically .22LR, the definitive prepper round is that it’s cheap, lightweight, and compact. A prepper can buy, store, and discretely transport many thousands of rounds of rimfire ammo for a fraction of the cost and effort of larger centerfire cartridges. [More \>\>]({{ site.baseurl }}/rimfire.html)
 
-- Top pick: [Ruger 10/22, stainless]({{ site.baseurl }}/rimfire.html#top-pick)
-- Alternate: [Ruger Mark IV, Stainless]({{ site.baseurl }}/rimfire.html#alternate-pick)
+- Top pick: [Ruger 10/22 rifle]({{ site.baseurl }}/rimfire.html#top-pick-ruger-1022)
+- Alternate: [Ruger Mark IV pistol]({{ site.baseurl }}/rimfire.html#alternate-pick-ruger-mark-iv)
 
 #### 12 Gauge Pump Shotgun
 For decades, the pump-action shotgun has been a staple of law enforcement and home defense arsenals because of its high capacity, ease of use, reliability, versatility, and devastating lethality. [More \>\>]({{ site.baseurl }}/shotgun.html)
 
-- Top pick: [Mossberg 500]({{ site.baseurl }}/shotgun.html#top-pick)
-- Alternate: [Remington 870]({{ site.baseurl }}/shotgun.html#alternate-pick)
+- Top pick: [Mossberg 500]({{ site.baseurl }}/shotgun.html#top-pick-mossberg-500)
+- Alternate: [Remington 870]({{ site.baseurl }}/shotgun.html#alternate-pick-remington-870)
 
 ### The First Level
 #### Centerfire Semi-Automatic Rifle
 Now that you’ve laid the foundation of your disaster arsenal with .22LR and 12 gauge options, you’re ready to take step and get truly serious. Some flavor of centerfire semi-auto (or full-auto) rifle is the standard—and in some cases only—military issued weapon for armed groups the world over, from roving gangs of African child soldiers to elite US special forces units. [More \>\>]({{ site.baseurl }}/centerfire-rifle.html)
 
-- Top pick: [AK-47]({{ site.baseurl }}/centerfire-rifle.html#top-pick)
-- Alternate: [AR-15]({{ site.baseurl }}/centerfire-rifle.html#alternate-pick)
+- Top pick: [AK-47]({{ site.baseurl }}/centerfire-rifle.html#top-pick-ak-47)
+- Alternate: [AR-15]({{ site.baseurl }}/centerfire-rifle.html#alternate-pick-ar-15)
 
 #### Defensive Handgun
 There are many conceivable SHTF scenarios in which you don’t want anyone to know that you’re armed. Maybe you’re traveling with a group and don’t want to be a target for theft, or maybe you’ve let some nice-seeming folks into your apartment (hey, they have a cute kid with them!) but you’re not quite sure if you can trust them, yet. My point is this: there are very few scenarios in which walking around with a rifle or shotgun openly slung across your back will be ok, so for everything else there’s the concealable handgun. [More \>\>]({{ site.baseurl }}/handgun.html)

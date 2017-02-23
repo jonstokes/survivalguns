@@ -29,10 +29,8 @@ If you are not willing to put in the time, effort, and money to purchase a high-
 
 Because the AK is the best pick for the beginning prepper who isn’t a “gun guy” and who wants a rifle on-hand “just in case,” and because it’s also the choice of many advanced preppers who also love the AR but prefer the AK for a total collapse scenario, I’ve selected it as the Top Pick.
 
-## Top Pick
-(AK-47)
-
-Whenever you find yourself on some foreign battlefield, facing a ragtag army of poorly equipped irregulars with few possessions beyond the clothes on their back, a rifle, and a ration of ammo, the odds are good that their rifle will be some flavor of AK-47. \>\>
+## Top Pick: AK-47
+Whenever you find yourself on some foreign battlefield, facing a ragtag army of poorly equipped irregulars with few possessions beyond the clothes on their back, a rifle, and a ration of ammo, the odds are good that their rifle will be some flavor of AK-47.
 
 The AK is cheap, easy to shoot, and its reputation for reliability and toughness is unmatched. This gun can even operate with many of its parts missing, and in some cases suitable replacement parts can be hacked together in the field from random bits and baubles. You can lube this weapon with everything from WD-40 to bacon grease, or, you can just not lube it at all and run it chock full of sand and grime—either way, it’ll still probably shoot.
 
@@ -50,9 +48,7 @@ If you want to go upmarket, you can get into some really nice AKs and AK variant
 
 *Key Upgrade*: If you’re into upgrades in the traditional sense of “stuff I add to the gun to make it better,” you should buy an AR-15. Otherwise, the primary way to upgrade an AK is to spend more money on a fancier AK or AK variant.
 
-## Alternate Pick
-(AR-15)
-
+## Alternate Pick: AR-15
 I’ve written extensively on the reasons why (millions of Americans chose the AR-15)[](http://www.vox.com/2016/6/20/11975850/ar-15-owner-orlando) as their go-to rifle. I’ve also written about the (history and development)[](https://www.wired.com/2013/02/ar-15/) of this amazing weapon platform. So I don’t want to recap that, here. What I will say is that if you’re willing to put in the money and the time with a rifle, then you can’t go wrong with a quality AR-15.
 
 My pick for a no-compromises AR-15 that has all the best features of the AR platform and toughness and reliability on par with an AK, is the (LMT CQB MRP Defender Model 16)[](http://www.lmtstore.com/complete-weapon-systems-firearms-guns/complete-gas-weapons/cqb-mrp-defender-model-16.html). I have two of these in my safe, one with a quad rail and a piston operating system, and the other with “slick sides” and a direct gas impingement (DI) operating system. (The (piston vs. DI)[](http://gundigest.com/reviews/rifles/ar-15-gas-impingement-vs-piston) debate is a really deep rabbit hole. The consensus seems to be that a DI AR is lighter, simpler, and easier to find replacement parts for, so if the SHTF I’d grab my DI gun.)

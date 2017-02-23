@@ -266,6 +266,8 @@ h3 { color: #76bed0; }
 
 a { color: #e85133; }
 
+p img { width: 100%; margin-top: 20px; }
+
 #forkme_banner { float: right; margin-right: 100px; padding: 10px; color: #232323; background-color: #f7cb15; font-weight: bold; border-radius: 4px; }
 
 #cc-license { margin: 0px; }
