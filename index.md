@@ -13,7 +13,7 @@ This site isn’t a list of my personal gun recommendations. Rather, it aims to 
 I’m a recovering tech journalist and a “Bernie Bro,” so I'm not your typical gun guy. But I’ve been a passionate supporter of the Second Amendment since I was a child—I grew up hunting and was a Life Scout, and more recently I’ve been immersed in the outdoors/shooting/survival space since early 2013. I have written about guns and 2A issues for mainstream publications like Wired, TechCrunch, and Vox, as well as for outdoors-oriented sites like AllOutdoor.com. (I’m also one of the founders of Ars Technica, though I never wrote about guns for that site.)   [More \>\>]({{ site.baseurl }}/about.html)
 
 ## The Guns
-If the SHTF, the primary, number one thing you’re going to want is _options_. In a disaster, the (situation is fluid)[](http://www.alloutdoor.com/2014/07/09/one-gun-three-guns-tshtf-bad-idea/), and you’re constantly moving and reacting to novel scenarios that you couldn’t possibly have foreseen.
+If the [SHTF](http://www.survivaljoe.net/prepper-acronyms/), the primary, number one thing you’re going to want is _options_. In a disaster, the [situation is fluid](http://www.alloutdoor.com/2014/07/09/one-gun-three-guns-tshtf-bad-idea/), and you’re constantly moving and reacting to novel scenarios that you couldn’t possibly have foreseen.
 
 Given that it’s impossible to think everything through and prepare for every eventuality, the best thing you can do, then, is to give yourself a diverse, flexible set of tools that you can adapt to fit whatever scenario you encounter out there.
 
