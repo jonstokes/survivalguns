@@ -4,7 +4,7 @@ layout: default
 # FAQ
 
 #### What about bows and crossbows?
-Yeah no. Crossbows are great for killing zombies on TV, but in a real SHTF scenario not so much. If you really don’t want to (or can’t) buy a firearm, an airgun is better than a bow or crossbow in nearly every respect.
+Yeah no. Crossbows are great for killing zombies on TV, but in a real SHTF scenario [not so much](http://www.alloutdoor.com/2013/12/03/crossbows-viable-shtf-option/). If you really don’t want to (or can’t) buy a firearm, an [airgun]({{ site.baseurl }}/airgun.html) is better than a bow or crossbow in nearly every respect.
 
 #### I live in New Jersey, and I don’t see any recommendations here that I can use.
 I’m so, so sorry. In NJ, only the criminals have guns, so if you’re a criminal then good for you, I guess. But if you’re a law-abider who’s serious about prepping, you should probably move. Otherwise, I suppose you can buy a slingshot or something. Either way, good luck with that.
