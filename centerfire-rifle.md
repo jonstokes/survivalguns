@@ -30,7 +30,7 @@ If you are not willing to put in the time, effort, and money to purchase a high-
 Because the AK is the best pick for the beginning prepper who isn’t a “gun guy” and who wants a rifle on-hand “just in case,” and because it’s also the choice of many advanced preppers who also love the AR but prefer the AK for a total collapse scenario, I’ve selected it as the Top Pick.
 
 ## Top Pick: AK-47
-![AK-47]({{ site.url }}/assets/images/ak-47.jpg)
+![AK-47]({{ site.url }}/assets/images/AK-47.jpg)
 [AK-47 pic by Allatur, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=16254298)
 
 Whenever you find yourself on some foreign battlefield, facing a ragtag army of poorly equipped irregulars with few possessions beyond the clothes on their back, a rifle, and a ration of ammo, the odds are good that their rifle will be some flavor of AK-47.
