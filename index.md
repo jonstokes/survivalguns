@@ -47,7 +47,7 @@ Now that you’ve laid the foundation of your disaster arsenal with .22LR and 12
 There are many conceivable SHTF scenarios in which you don’t want anyone to know that you’re armed. Maybe you’re traveling with a group and don’t want to be a target for theft, or maybe you’ve let some nice-seeming folks into your apartment (hey, they have a cute kid with them!) but you’re not quite sure if you can trust them, yet. My point is this: there are very few scenarios in which walking around with a rifle or shotgun openly slung across your back will be ok, so for everything else there’s the concealable handgun. [More \>\>]({{ site.url }}/handgun.html)
 
 - Top pick: [Glock 19]({{ site.url }}/handgun.html#top-pick)
-- Alternate: [Glock 17]({{ site.url }}/handgun.html#alternate-pick)
+- Alternate: [Smith & Wesson M&P 9mm]({{ site.url }}/handgun.html#alternate-pick)
 
 ### The Next Level
 #### Long-range Rifle

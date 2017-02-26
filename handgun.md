@@ -12,8 +12,8 @@ My personal handgun is a case in point. You’ll notice that I’ve picked Glock
 
 At any rate, my ultimate point is this: if you can try a bunch of handguns out, then you definitely should pick the one that fits you best. But if you can’t try anything out and just want to get a gun now and maybe train with it later, just buy a Glock with complete confidence that you have the premier SHTF handgun.
 
-## Top Pick
-Glock 19
+## Top Pick: Glock 19
+![Glock 19]({{ site.url }}/assets/images/glock-19.jpg)
 
 The Glock name is synonymous with absolute, total reliability, and the 9mm Glock 19 is unquestionably the most popular choice for a SHTF sidearm. As a slightly more compact and concealable version of the Glock 17, the Glock 19 can use magazines from a wide range of other Glock models.
 
@@ -21,8 +21,8 @@ I’m not going to say much more about this, because of all the gun picks on thi
 
 *Key Upgrade*: Night sights. You never know when you’re going to have to reach for your pistol, so you’ll want the ability to use this gun at night. Thus a set of tritium-powered night sights is the first upgrade you should look at in a SHTF Glock.
 
-## Alternate Pick
-Smith & Wesson M&P
+## Alternate Pick: Smith & Wesson M&P 9mm
+![S&W M&P]({{ site.url }}/assets/images/m-and-p.jpg)
 
 If you try out a Glock or two (maybe the 17 instead of the 19, for those with larger hands), and Gaston’s plastic wonder pistol just doesn’t fit your hand, the Smith & Wesson M&P is your next stop. As a polymer-framed, striker-fired handgun like the Glock, the M&P has no safety or decocker to fuss with—you just rack a cartridge in the chamber, then pull the trigger when you’re ready to fire. It’s simple, lightweight, compact, and reliable.
 
