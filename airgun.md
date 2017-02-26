@@ -22,8 +22,8 @@ If, for whatever reason, you do run out of airgun ammo, you can make more with s
 
 For all of these reasons and more, an air rifle is a far better choice for a SHTF arsenal than any type of bow, and it may even be a better choice than a .22LR rifle for many possible of long-term grid-down scenarios.
 
-# Top Pick
-Umarex Octane
+# Top Pick: Umarex Octane .22
+![Umarex Octane .22]({{ site.url }}/assets/images/umarex-octane-22.jpg)
 
 I’m not an airgun geek by any means, so right now I really can’t speak to a consensus. Once I get to know the space a little better, I’ll be able to weigh in with more confidence.
 
@@ -35,8 +35,8 @@ Second, it comes with a scope. This is important, because air rifle scopes are t
 
 The scope that comes with the Umarex isn’t anything like the Leopold glass I use on my AR, but it’s plenty good enough for the kind of plinking and small game hunting that I use it or.
 
-## Alternate Pick
-Benjamin Bulldog .357 Air Rifle
+## Alternate Pick: Benjamin Bulldog .357 Air Rifle
+![Benjamin Bulldog .357]({{ site.url }}/assets/images/bulldog-357.jpg)
 
 This recommendation is the one place where I’m going to totally ditch the “consensus” idea and just recommend something totally exotic and a bit idiosyncratic. You’ll realize why in just a moment.
 

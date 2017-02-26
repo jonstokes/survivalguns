@@ -26,7 +26,7 @@ Why am I recommending this gun if you have to replace the trigger? Because it st
 *Key Upgrade*: Magnified Optic. To get the most out of this gun you absolutely need a magnified optic, preferably one with variable magnification that can go from 3X or so out to at least 6X.
 
 ## Alternate Pick: AR-10
-![Remington 700]({{ site.url }}/assets/images/model-700.jpg)
+![LMT LM8MWS]({{ site.url }}/assets/images/lm8mws-fde.jpg)
 
 The “AR-10” is an actual model of rifle, but here I’m using the term loosely to mean “an AR-15-style rifle that’s chambered in .308.” A good AR-10 combines the accuracy of a bolt action .308 with the reliability, flexibility, and rapid-fire semi-auto operation of an AR-15. You can do everything from long-range sniper shots to close-quarters combat with the same weapon. \>\>
 
