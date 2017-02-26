@@ -4,7 +4,7 @@ layout: default
 # Long Range Rifle
 With the four guns you’ve already picked up, you’re now prepared for the worst that the apocalypse can throw at you. At this point, then, you’re now in the realm of looking for an extra edge.
 
-All of the guns so far are relatively short- to medium-range weapons. But sometimes, you need to be able to reach way out there with a shot. You also may find yourself in a short- or medium-range engagement in which you need to turn cover into concealment (that’s gun guy talk for shooting through a barrier to hit what’s on the other side).
+All of the guns so far are relatively short- to medium-range weapons. But sometimes, you need to be able to reach way out there with a shot. Maybe you can't get in close to a large game animal. Or, maybe you've found found yourself in a short- or medium-range engagement in which you need to turn cover into concealment (that’s gun guy talk for shooting through a barrier to hit what’s on the other side).
 
 For these kinds of scenarios, you’ll need a gun that shoots a bigger bullet, and that can propel that bullet out as far as 1,000 yards. Welcome to the world of the .308 Winchester round (also known as 7.62x51 NATO). This is an old, reliable, very widely available .30-caliber round. Sure, there are newer and trendier cartridges, like the currently hot 6.5 Creedmoor, but for SHTF purposes you want the widely available, time-tested .308. If you hit a person with a .308 round, you probably won’t have to hit them again; you can take large North American game, like elk and bear, safely with the .308; and if you have to shoot through a wall or a door, .308 Win can get it done.
 
@@ -19,7 +19,7 @@ Because it’s a bolt-action rifle, the manual of arms is very simple. You don�
 
 Because of its combination of simplicity, light weight, reliability, and devastating lethality, the bolt-action .308 is many preppers’ choice for a “one gun” solution if the SHTF. Indeed, back when the “scout rifle” concept enjoyed more favor than it does nowadays, something like the Remington Model 700 would’ve been the consensus “one gun” pick of an earlier generation of preppers.
 
-*Important Notice*: These guns have had two different [major recalls](http://www.alloutdoor.com/2017/02/20/remington-recalls-yet-another-batch-rifles-faulty-triggers/) over the years because of the triggers Remington ships with them; the faulty triggers can cause the gun to fire spontaneously, and this has killed people. So while this is a great, classic rifle platform, you _have_ to replace the trigger. It doesn’t matter if the gun you got is not covered by the recall, just do it anyway. Specifically, everyone is going to tell you to drop a Timney trigger in there the minute you get it home.
+*Important Notice*: These guns have had two different [major recalls](http://www.alloutdoor.com/2017/02/20/remington-recalls-yet-another-batch-rifles-faulty-triggers/) over the years because of the triggers Remington ships with them; the faulty triggers can cause the gun to fire spontaneously (i.e., it goes off without the trigger being pulled), and this has killed people. So while this is a great, classic rifle platform, you _have_ to replace the trigger. It doesn’t matter if the gun you got is not covered by the recall, just do it anyway. Specifically, everyone is going to tell you to drop a Timney trigger in there the minute you get it home.
 
 Why am I recommending this gun if you have to replace the trigger? Because it still fits the bill based on all the criteria I’ve laid out here, provided you replace Remington’s factory trigger.
 
@@ -28,14 +28,14 @@ Why am I recommending this gun if you have to replace the trigger? Because it st
 ## Alternate Pick: AR-10
 ![LMT LM8MWS]({{ site.url }}/assets/images/lm8mws-fde.jpg)
 
-The “AR-10” is an actual model of rifle, but here I’m using the term loosely to mean “an AR-15-style rifle that’s chambered in .308.” A good AR-10 combines the accuracy of a bolt action .308 with the reliability, flexibility, and rapid-fire semi-auto operation of an AR-15. You can do everything from long-range sniper shots to close-quarters combat with the same weapon. \>\>
+The “AR-10” is an actual model of rifle, but here I’m using the term loosely to mean “an AR-15-style rifle that’s chambered in .308.” A good AR-10 combines the accuracy of a bolt action .308 with the reliability, flexibility, and rapid-fire semi-auto operation of an AR-15. You can do everything from long-range sniper shots to close-quarters combat with the same weapon, which gives it an amazing amount of versatility.
 
 Ten years ago, there’s no way an AR-10 flavor could’ve made this list—they just weren’t reliable enough. But the AR-10’s that have come out in the past few years are almost as reliable as their AR-15 siblings, and if you spend enough money they’re almost as accurate as their bolt-action cousins.
 
-I say “almost as reliable,” because AR-10’s can be finicky about ammo. For instance, I have a really nice LMT LM8MWS that just won’t shoot cheap M80 ball ammo reliably. But if I’m careful about what I feed it, I can shoot it all day without issue.
+I say “almost as reliable,” because AR-10’s can often be finicky about ammo. For instance, I have a really nice LMT LM8MWS that just won’t shoot some flavors of cheap M80 ball ammo reliably. But if I don't feed the gun total bargain-bin junk rounds, then I can shoot it all day without issue.
 
-Apart from the need to be careful about ammo selection, the other downsides to an AR-10 are cost and weight. These guns are generally a good deal more expensive than an AR-15 of comparable quality, and they’re also heavier than bolt action .308’s.
+Apart from the need to be mindful of ammo selection, the other downsides to an AR-10 are cost and weight. These guns are generally a good deal more expensive than an AR-15 of comparable quality, and they’re also typically heavier than bolt action .308’s.
 
-*Note*: a magazine-fed semi-auto .308 is often referred to as a “battle rifle,” and there are more choices than just the AR-10. The FN FAL and M1 family were the most popular battle rifles prior to the rise of the AR-10.
+*Note*: A magazine-fed semi-auto .308 is often referred to as a “battle rifle,” and there are more choices than just the AR-10. The FN FAL and M1 family were the most popular battle rifles prior to the rise of the AR-10.
 
 *Key Upgrade*: Magnified Optic. Like the Remington Model 700, you’ll need a magnified optic to get the most out of this gun.
