@@ -8,8 +8,8 @@ All of the guns so far are relatively short- to medium-range weapons. But someti
 
 For these kinds of scenarios, you’ll need a gun that shoots a bigger bullet, and that can propel that bullet out as far as 1,000 yards. Welcome to the world of the .308 Winchester round (also known as 7.62x51 NATO). This is an old, reliable, very widely available .30-caliber round. Sure, there are newer and trendier cartridges, like the currently hot 6.5 Creedmoor, but for SHTF purposes you want the widely available, time-tested .308. If you hit a person with a .308 round, you probably won’t have to hit them again; you can take large North American game, like elk and bear, safely with the .308; and if you have to shoot through a wall or a door, .308 Win can get it done.
 
-## Top  Pick
-Remington Model 700
+## Top  Pick: Remington Model 700
+![Remington 700]({{ site.url }}/assets/images/model-700.jpg)
 
 The Remington 700 is the Ruger 10/22 of hunting and sniper rifles. It’s a very common action that has been popular for decades, and there are tons of aftermarket parts and mods available for it. It’s known for accuracy and reliability, and you can get a good one for a little over $500, depending on options or if you’re buying new or used. (However, you’ll need to factor in the cost of a trigger upgrade; see the notice below.)
 
@@ -25,8 +25,8 @@ Why am I recommending this gun if you have to replace the trigger? Because it st
 
 *Key Upgrade*: Magnified Optic. To get the most out of this gun you absolutely need a magnified optic, preferably one with variable magnification that can go from 3X or so out to at least 6X.
 
-## Alternate Pick
-AR-10
+## Alternate Pick: AR-10
+![Remington 700]({{ site.url }}/assets/images/model-700.jpg)
 
 The “AR-10” is an actual model of rifle, but here I’m using the term loosely to mean “an AR-15-style rifle that’s chambered in .308.” A good AR-10 combines the accuracy of a bolt action .308 with the reliability, flexibility, and rapid-fire semi-auto operation of an AR-15. You can do everything from long-range sniper shots to close-quarters combat with the same weapon. \>\>
 
