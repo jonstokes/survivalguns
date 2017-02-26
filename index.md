@@ -46,21 +46,21 @@ Now that you’ve laid the foundation of your disaster arsenal with .22LR and 12
 #### Defensive Handgun
 There are many conceivable SHTF scenarios in which you don’t want anyone to know that you’re armed. Maybe you’re traveling with a group and don’t want to be a target for theft, or maybe you’ve let some nice-seeming folks into your apartment (hey, they have a cute kid with them!) but you’re not quite sure if you can trust them, yet. My point is this: there are very few scenarios in which walking around with a rifle or shotgun openly slung across your back will be ok, so for everything else there’s the concealable handgun. [More \>\>]({{ site.url }}/handgun.html)
 
-- Top pick: [Glock 19]({{ site.url }}/handgun.html#top-pick)
-- Alternate: [Smith & Wesson M&P 9mm]({{ site.url }}/handgun.html#alternate-pick)
+- Top pick: [Glock 19]({{ site.url }}/handgun.html#top-pick-glock-19)
+- Alternate: [Smith & Wesson M&P 9mm]({{ site.url }}/handgun.html#alternate-pick-smith--wesson-mp-9mm)
 
 ### The Next Level
 #### Long-range Rifle
 With the four guns you’ve already picked up, you’re now prepared for the worst that the apocalypse can throw at you. At this point, then, you’re now in the realm of looking for an extra edge. [More \>\>]({{ site.url }}/long-range-rifle.html)
 
-- Top pick: [Remington 700 in .308]({{ site.url }}/long-range-rifle.html#top-pick)
-- Alternate: [AR-10]({{ site.url }}/long-range-rifle.html#alternate-pick)
+- Top pick: [Remington 700 in .308]({{ site.url }}/long-range-rifle.html#top-pick-remington-model-700)
+- Alternate: [AR-10]({{ site.url }}/long-range-rifle.html#alternate-pick-ar-10)
 
 #### Air Gun
 Not everyone who’s thinking about tooling up for the apocalypse is ready to make the leap into firearms. Some families just aren’t ever going to be cool with having a gun in the house, while others live in areas where guns are so restricted that they’re worried about getting grief from neighbors or authorities if it gets out that they’re armed. And then there are folks who’ve served their time and payed their debt to society in a federal prison, but are legally barred from exercising their Second Amendment rights. [More \>\>]({{ site.url }}/airgun.html)
 
-- Top pick: [.22 gas piston rifle]({{ site.url }}/airgun.html#top-pick)
-- Alternate: [.357 caliber rifle]({{ site.url }}/airgun.html#alternate-pick)
+- Top pick: [.22 gas piston rifle]({{ site.url }}/airgun.html#top-pick-umarex-octane-22)
+- Alternate: [.357 caliber rifle]({{ site.url }}/airgun.html#alternate-pick-benjamin-bulldog-357-air-rifle)
 
 ## Other Survival Resources
 Here are some other general preparedness/survival sites to check out:
