@@ -18,3 +18,4 @@ Here's a not-so-complete list of links to my writing on gun-related topics.
 - More recently, I've written on the assault weapons ban in the context of a discussion of smart guns for Tech Crunch: [Why the NRA hates smart guns](http://techcrunch.com/2016/04/30/why-the-nra-hates-smart-guns/).
 - The best thing I've done on the topic of smart guns was my first piece for TechCrunch, [Why Obama’s Smart Gun Push Will Misfire](https://techcrunch.com/2016/01/05/why-obamas-smart-gun-push-will-misfire/). This is a pretty extensive takedown of the entire smart gun idea.
 - [Confessions of a Progressive Gun Nut](https://medium.com/@jonst0kes/confessions-of-a-progressive-gun-nut-ae0e6a8f6146#.htsnyppf4). An essay I did on Medium about why I own guns.
+- [Why I am Not a Doomsday Prepper](http://www.alloutdoor.com/2015/03/11/doomsday-prepper/). I believe in preparedness, but I'm not actually a real doomsday prepper. Here's why.
